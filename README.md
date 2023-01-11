@@ -31,5 +31,6 @@ experiment-21![image](https://user-images.githubusercontent.com/113572369/211763
 experiment-22![image](https://user-images.githubusercontent.com/113572369/211763460-2b2d062a-1079-46fb-a0b7-b507acee619c.png)
 experiment-23![image](https://user-images.githubusercontent.com/113572369/211763566-d2ffaae5-ffcd-4618-9bea-84099dd6599e.png)
 experiment-24![image](https://user-images.githubusercontent.com/113572369/211763678-618ce78f-4150-444d-aa88-c009f77f44ff.png)
-experiment-25
+experiment-25![image](https://user-images.githubusercontent.com/113572369/211764093-31f90881-43d0-4754-ab40-825d2be1c928.png)
+
 
